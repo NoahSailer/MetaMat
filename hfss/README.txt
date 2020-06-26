@@ -1,0 +1,1 @@
+I absolutely despise HFSS's graphical interface, and much prefer to make plots and calculate stuff in python. If you're like me, you can export HFSS results to csv files and use my extract_data.py file to plot stuff like beam shapes or integrated gain. The 150 file contains some beams at 150 GHz for various lenslet designs. 
